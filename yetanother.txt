@@ -1,0 +1,1 @@
+Notes that describe what each file represents in the project
